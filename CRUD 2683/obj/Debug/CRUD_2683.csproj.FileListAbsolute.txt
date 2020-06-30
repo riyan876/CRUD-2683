@@ -1,0 +1,7 @@
+C:\Users\HP OMEN\source\repos\CRUD_2687\CRUD_2687\obj\Debug\CRUD_2687.csprojAssemblyReference.cache
+C:\Users\HP OMEN\source\repos\CRUD_2687\CRUD_2687\obj\Debug\CRUD_2687.csproj.CoreCompileInputs.cache
+C:\Users\HP OMEN\source\repos\CRUD_2687\CRUD_2687\bin\Debug\CRUD_2687.exe.config
+C:\Users\HP OMEN\source\repos\CRUD_2687\CRUD_2687\bin\Debug\CRUD_2687.exe
+C:\Users\HP OMEN\source\repos\CRUD_2687\CRUD_2687\bin\Debug\CRUD_2687.pdb
+C:\Users\HP OMEN\source\repos\CRUD_2687\CRUD_2687\obj\Debug\CRUD_2687.exe
+C:\Users\HP OMEN\source\repos\CRUD_2687\CRUD_2687\obj\Debug\CRUD_2687.pdb
